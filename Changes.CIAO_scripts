@@ -6,7 +6,7 @@ Updated scripts
 
     The default for the clobber parameter has been changed to "no".
 
-  download_chandra_obsid
+  find_chandra_obsid
 
     The script is better able to handle running on a system where the
     openssl library does not have access to SSL certificates.
